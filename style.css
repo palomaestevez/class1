@@ -1,4 +1,17 @@
 body{
-    font-family:'Lucida Sans';
+    font-family:'roboto-font';
     background-color: black;
+    align-items: center;
+}
+
+
+div{
+    background-position: center;
+    background-color: white;
+    width: 600px;
+    align-content:center
+}
+.color{
+    border-style:5px black solid;
+
 }
